@@ -8,8 +8,8 @@ CREATE (host7:host {name:'host7.jhu.edu', ip: '10.40.100.47', bytes_sent: 664386
 CREATE (host8:host {name:'host8.jhu.edu', ip: '10.40.100.48', bytes_sent: 119843, bytes_received: 1663590})
 CREATE (host9:host {name:'host9.jhu.edu', ip: '10.40.100.49', bytes_sent: 338903, bytes_received: 225504})
 
-CREATE (fw1:firewall {name:'fw1.jhu.edu', ip: '70.80.90.100')
-CREATE (fw2:firewall {name:'fw2.jhu.edu', ip: '70.80.90.101')
+CREATE (fw1:firewall {name:'fw1.jhu.edu', ip: '70.80.90.100'})
+CREATE (fw2:firewall {name:'fw2.jhu.edu', ip: '70.80.90.101'})
 
 CREATE (router1:router {name:'router2.jhu.edu', ip: '30.40.50.60', bytes_sent: 1000, bytes_received: 2000})
 CREATE (router2:router {name:'router2.jhu.edu', ip: '30.40.50.61', bytes_sent: 1000, bytes_received: 2000})

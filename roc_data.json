@@ -1,0 +1,157 @@
+[
+ {
+   "event_num": 0,
+   "score": 0.95,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 1,
+   "score": 0.14,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 2,
+   "score": 0.66,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 3,
+   "score": 78,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 4,
+   "score": 0.1,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 5,
+   "score": 91,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 6,
+   "score": 0.08,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 7,
+   "score": 0.76,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 8,
+   "score": 0.76,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 9,
+   "score": 0.85,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 10,
+   "score": 0.17,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 11,
+   "score": 0.24,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 12,
+   "score": 0.64,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 13,
+   "score": 0.2,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 14,
+   "score": 0.52,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 15,
+   "score": 0.09,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 16,
+   "score": 0.97,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 17,
+   "score": 0.9,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 18,
+   "score": 0.28,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 19,
+   "score": 0.71,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 20,
+   "score": 0.29,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 21,
+   "score": 0.14,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 22,
+   "score": 0.26,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 23,
+   "score": 0.86,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 24,
+   "score": 0.29,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 25,
+   "score": 0.13,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 26,
+   "score": 0.78,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 27,
+   "score": 0.18,
+   "tp_fp": "FP"
+ },
+ {
+   "event_num": 28,
+   "score": 0.48,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 29,
+   "score": 0.58,
+   "tp_fp": "TP"
+ },
+ {
+   "event_num": 30,
+   "score": 0.87,
+   "tp_fp": "TP"
+ }
+]

@@ -16,7 +16,7 @@
  },
  {
    "event_num": 3,
-   "score": 78,
+   "score": 0.78,
    "tp_fp": "TP"
  },
  {
@@ -26,7 +26,7 @@
  },
  {
    "event_num": 5,
-   "score": 91,
+   "score": 0.91,
    "tp_fp": "FP"
  },
  {

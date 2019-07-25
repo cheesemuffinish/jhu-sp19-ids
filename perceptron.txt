@@ -1,4 +1,4 @@
-activation_fx = sum(w1 * x1) + (w2 * x2) + bias
+activation_fx = (w1 * x1) + (w2 * x2) + bias
 
 # format: [bias, w1, w2]
 weights = [-0.2, 0.2, -0.23]

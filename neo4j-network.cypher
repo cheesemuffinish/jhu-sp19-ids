@@ -11,7 +11,7 @@ CREATE (host9:host {name:'host9.jhu.edu', ip: '10.40.100.49', bytes_sent: 338903
 CREATE (fw1:firewall {name:'fw1.jhu.edu', ip: '70.80.90.100'})
 CREATE (fw2:firewall {name:'fw2.jhu.edu', ip: '70.80.90.101'})
 
-CREATE (router1:router {name:'router2.jhu.edu', ip: '30.40.50.60', bytes_sent: 1000, bytes_received: 2000})
+CREATE (router1:router {name:'router1.jhu.edu', ip: '30.40.50.60', bytes_sent: 1000, bytes_received: 2000})
 CREATE (router2:router {name:'router2.jhu.edu', ip: '30.40.50.61', bytes_sent: 1000, bytes_received: 2000})
 
 CREATE (host1)-[:CONNECTS_TO]->(fw1)
